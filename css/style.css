@@ -352,22 +352,16 @@ section{
     font-size: 18px;
     position:absolute;
     bottom: -2470px;
-    left: 980px;
-    display: inline-block;
+    left: 880px;
+    right: 880px;
+    
     cursor: pointer;
 }
 button:hover {
     transform: scale(1.1);
     transition: all 0.5s;
   } 
-  button:hover:after {
-    content: " AGORA";
-    font-family: "ARIAL";
-    font-style: normal;
-    font-variant-caps: normal;
-    font-variant-ligatures: normal;
-    text-rendering: auto;
-}
+
 
 
 .img-galeria{
