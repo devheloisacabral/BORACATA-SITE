@@ -353,7 +353,7 @@ section{
     position:absolute;
     bottom: -2470px;
     left: 870px;
-    display: block;
+    display: inline-block;
     cursor: pointer;
 }
 button:hover {
