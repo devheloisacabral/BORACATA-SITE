@@ -352,8 +352,7 @@ section{
     font-size: 18px;
     position:static;
     bottom: -2470px;
-    left: 880px;
-    right: 880px;
+   margin-left: 40%;
     
     cursor: pointer;
 }
