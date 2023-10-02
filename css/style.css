@@ -350,7 +350,7 @@ section{
     color: #086405;
     font-weight: 700;
     font-size: 18px;
-    position:absolute;
+    position:static;
     bottom: -2470px;
     left: 880px;
     right: 880px;
