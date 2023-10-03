@@ -550,6 +550,7 @@ button:hover {
     .jogar{
         position: static;
         width: 230px;
+        margin-left: 11%;
     }
 
     .header .navbar a{
